@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+Bien sûr ! Voici un exemple de README simple et concis pour ton projet de portfolio :
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# Portfolio
 
-In the project directory, you can run:
+## Description
 
-### `yarn start`
+Bienvenue sur mon portfolio personnel ! Ce projet est développé avec ReactJS et présente mes compétences, mes projets et mon expérience professionnelle. Explorez pour en savoir plus sur moi et sur mon parcours.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Fonctionnalités
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Présentation personnelle** : Apprenez-en davantage sur mon parcours et mes intérêts.
+- **Projets** : Consultez une sélection de mes projets récents, avec des détails sur chaque réalisation.
+- **Compétences** : Découvrez les technologies et outils que j'utilise couramment.
+- **Contact** : Trouvez des moyens de me contacter pour des opportunités professionnelles ou des collaborations.
 
-### `yarn test`
+## Technologies utilisées
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **ReactJS** : Pour la structure de l'application et l'interface utilisateur.
+- **CSS** : Pour le style et la mise en page.
+- **JavaScript** : Pour la logique de l'application.
 
-### `yarn build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clonez ce dépôt :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```sh
+   git clone https://github.com/ousmanelagrange/my-portfolio.git
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Accédez au répertoire du projet :
 
-### `yarn eject`
+   ```sh
+   cd my-portfolio
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+3. Installez les dépendances :
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```sh
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+4. Démarrez l'application en mode développement :
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+   ```sh
+   npm start
+   ```
 
-## Learn More
+L'application sera accessible à `http://localhost:3000`.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Déploiement
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Ce projet est déployé sur [Netlify](https://www.netlify.com/). Chaque mise à jour du code source sur la branche principale déclenche automatiquement un nouveau déploiement.
 
-### Code Splitting
+## Licence
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
